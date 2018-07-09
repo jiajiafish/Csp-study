@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "类型转换显式加隐式", "类型转换显式加隐式\类型转换显式加隐式.csproj", "{9F50A700-A0FF-427C-B329-53D726507917}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "交错数组", "交错数组\交错数组.csproj", "{0D5C7F22-73EA-4C93-933B-C0E3E044DE5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9F50A700-A0FF-427C-B329-53D726507917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F50A700-A0FF-427C-B329-53D726507917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F50A700-A0FF-427C-B329-53D726507917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D5C7F22-73EA-4C93-933B-C0E3E044DE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D5C7F22-73EA-4C93-933B-C0E3E044DE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D5C7F22-73EA-4C93-933B-C0E3E044DE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D5C7F22-73EA-4C93-933B-C0E3E044DE5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
